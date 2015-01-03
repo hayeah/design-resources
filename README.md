@@ -55,3 +55,18 @@ I find color tools like [kuler](https://color.adobe.com) too difficult for desig
 + http://beautifulpixels.com/
 + http://app.itize.us/
 
+# Sketch
+
+## Sketch & Tutorials
+
++ http://webdesign.tutsplus.com/categories/sketch
++ [Sketch Guideline(Chinese Version)](http://www.ituring.com.cn/book/1305) Free
++ [Sketch Plugins](http://awesome-sket.ch/)
++ [Chinese Sketch website](http://sketchcn.com/)
+
+## Sketch Resources
+
++ http://www.niudana.com/#sketch
++ http://bohemiancoding.com/sketch/resources/
++ http://www.sketchappsources.com/all-free-sources.html
+
