@@ -39,6 +39,8 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 
 I find color tools like [kuler](https://color.adobe.com) too difficult for design noobs.
 
+[Calculation Hub Luminance & Brightness](https://calculation-hub.com/colors/luminance-brightness) compares relative luminance, HSP brightness, luma, and two-color contrast. A contrast result alone does not establish full accessibility.
+
 # Design Inspirations
 
 ## Blogs
