@@ -30,6 +30,8 @@ Usually you'd see typekit (Adobe Foundry's paid service) or [Google Font](http:/
 
 A lot of the time you can find the font you want at [Font Squirrel](www.fontsquirrel.com)
 
+[Chalk Counter](https://cursive-generation.com/fonts/chalk-counter) is a free Regular font with a custom commercial-use and embedding license; font-file resale is prohibited.
+
 # Choosing Colors
 
 The easiest way to build a color pallete is by sampling colors from an existing image.
